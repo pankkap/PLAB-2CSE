@@ -1,1 +1,0 @@
-print("This is my First Introductory Session about PLAB where we do competitive coding")
